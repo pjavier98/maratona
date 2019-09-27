@@ -32,6 +32,8 @@ int main() {
     }
 
     balloons_colors.clear();
+
+
   }
 
   return 0;
